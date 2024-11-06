@@ -31,7 +31,6 @@ public class CarRepository
             _carsDb.add(car);
             return true;
         }
-        
         return false; // Car with the same ID already exists
     }
 
