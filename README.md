@@ -51,4 +51,4 @@ For each design principle, we present an example demonstrating a version of the 
 
 In addition to these examples, an exercise is provided to help the learner practice identifying issues related to the lack of adherence to the principle. A solution is then provided following the exercise.
 
-*Note:* the solution are a personal try for solving the problem . Other solutions could exist ! 
+*Note:* theses solutions are a personal try for solving the problems . Other solutions could exist ! 
