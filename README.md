@@ -9,11 +9,11 @@ This repository provides practical implementations of the **SOLID principles** i
 
 1. [Overview](#overview)
 2. [SOLID Principles](#solid-principles)
-   - [Single Responsibility Principle](#single-responsibility-principle)
-   - [Open/Closed Principle](#openclosed-principle)
-   - [Liskov Substitution Principle](#liskov-substitution-principle)
-   - [Interface Segregation Principle](#interface-segregation-principle)
-   - [Dependency Inversion Principle](#dependency-inversion-principle)
+   - [Single Responsibility Principle](/single-responsibility-principle/src/com/directi/training/srp/)
+   - [Open/Closed Principle](/openclosed-principle/src/com/directi/training/ocp/)
+   - [Liskov Substitution Principle](/liskov-substitution-principle/src/com/directi/training/lsp/)
+   - [Interface Segregation Principle](/interface-segregation-principle/src/com/directi/training/isp/)
+   - [Dependency Inversion Principle](/dependency-inversion-principle/src/com/directi/training/dip/)
 
 ---
 
@@ -44,3 +44,11 @@ The **SOLID** principles are five design principles that help developers build w
 
 ### 5. Dependency Inversion Principle (DIP)
 - **Definition**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+## How this is organized .. 
+
+For each design principle, we present an example demonstrating a version of the code that violates the principle, followed by a refactored version that adheres to the principle.
+
+In addition to these examples, an exercise is provided to help the learner practice identifying issues related to the lack of adherence to the principle. A solution is then provided following the exercise.
+
+*Note:* the solution are a personal try for solving the problem . Other solutions could exist ! 

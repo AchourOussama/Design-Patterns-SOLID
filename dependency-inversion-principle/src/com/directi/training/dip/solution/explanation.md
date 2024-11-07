@@ -21,6 +21,5 @@ The final solution consists of :
 
 
 ## Class Diagram
-<!-- ![](class-diagram.png) -->
 <img src="class-diagram.png" alt="drawing" width="400" style="display: block; margin: 0 auto"/>
 
