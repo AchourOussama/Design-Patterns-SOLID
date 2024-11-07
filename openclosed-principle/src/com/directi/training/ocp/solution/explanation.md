@@ -17,4 +17,4 @@ As a solution we opted for diving and refactoring the old source code as follows
 - ResourceAllocator : responsible for allocating and freeing the resources (the classes implementing the Resource interface)  
 
 ## Class Diagram
-![](class-diagram.png)
+<img src="class-diagram.png" alt="drawing" width="700" style="display: block; margin: 0 auto"/>
